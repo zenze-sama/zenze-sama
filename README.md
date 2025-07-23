@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I'm zenze (Pseudonym)</h1>
 
 ### "Warriors win by being the last man standing." - Eisen
+### "Just because some stumbles and loses his way, doesn't mean he is lost forever." - Charles Xavier 
+
 Big fan of Japanese media, coding and helping others!
     
   [![zenze's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)
