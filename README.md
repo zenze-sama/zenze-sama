@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm zenze (Pseudonym)</h1>
 
-### "Just because some stumbles and loses his way, doesn't mean he is lost forever." - Charles Xavier 
+### "Just because someone stumbles and loses his way, doesn't mean he's lost forever." - Charles Xavier 
 
 Big fan of Japanese media, coding and helping others!
     
