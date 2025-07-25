@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm zenze (Pseudonym)</h1>
 
-### "Just because someone stumbles and loses their way doesn't mean they're lost forever." - Charles Xavier 
+### "To live is to be known and remembered by others." - Himmel, the hero. 
 
 Big fan of Japanese media, coding and helping others!
     
