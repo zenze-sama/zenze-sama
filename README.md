@@ -2,7 +2,7 @@
 
 ### "To live is to be known and remembered by others." - Himmel, the hero. 
 
-Big fan of Japanese media, coding, horseshoe crabs and helping others!
+Big fan of Japanese media, Chocolates, Coding, Horseshoe crabs and helping others!
     
   [![zenze's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)
 
