@@ -6,6 +6,6 @@ Big fan of Japanese media, Chocolates, Coding, Horseshoe crabs and helping other
     
   [![zenze's GitHub stats](https://github-readme-stats.vercel.app/api?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![leetcode_stats](https://leetcard.jacoblin.cool/zenze-sama?theme=dark&font=Play&ext=heatmap)
+  ![leetcode_stats](https://leetcard.jacoblin.cool/zenze-sama?font=Play&ext=heatmap)
 
 <img src="https://komarev.com/ghpvc/?username=zenze-sama">
