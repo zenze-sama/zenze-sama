@@ -5,7 +5,7 @@
 Big fan of Japanese media, Chocolates, Coding, Horseshoe crabs and helping others! <br>
 Discord: `zenzesama`
     
-  [![zenze's GitHub stats](https://github-readme-stats-henna-zeta-40.vercel.app/api?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats-henna-zeta-40.vercel.app/api/top-langs/?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)
+  [![zenze's GitHub stats](https://github-readme-stats-henna-zeta-40.vercel.app/api?username=zenze-sama)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats-henna-zeta-40.vercel.app/api/top-langs/?username=zenze-sama&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
   ![leetcode_stats](https://leetcard.jacoblin.cool/zenze-sama?font=Play&ext=heatmap)
 
